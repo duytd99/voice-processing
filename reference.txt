@@ -1,0 +1,3 @@
+https://github.com/spatialaudio/python-sounddevice/blob/master/examples/rec_unlimited.py
+https://stackoverflow.com/questions/57206650/how-to-record-audio-in-python-for-undetermined-duration-and-allow-for-pause-and
+https://github.com/quanghuynguyen1902/voice/blob/master/speech/voice.py
